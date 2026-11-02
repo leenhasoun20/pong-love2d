@@ -1,8 +1,8 @@
 # Pong Game in Love2D
 
 ## Student Information
-- **Full Name:** [Your Name Here]
-- **Class / Section:** [Your Class / Section Here]
+- **Full Name:** Leen Naeem Ahmad Hassoun (لين نعيم احمد حسون)
+- **Class / Section:** Mon & Wed (8:00 AM - 10:00 AM) / شعبة الإثنين والأربعاء (8:00 - 10:00)
 
 ---
 
@@ -96,3 +96,4 @@ When a collision is detected, the ball's horizontal direction is flipped, and it
 ![Gameplay Demo](demo/demo.gif)
 
 *(Note: You can also place an MP4 recording of your gameplay inside the `demo/` folder, e.g. `demo/gameplay.mp4`).*
+
